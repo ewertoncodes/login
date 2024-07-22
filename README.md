@@ -31,10 +31,9 @@ Este é um projeto Ruby on Rails com Bootstrap integrado.
     ```
 
 
-4. Crie e migre o banco de dados:
+4. Crie, migre e popule o banco de dados:
     ```sh
-    rails db:create
-    rails db:migrate
+    rails db:setup
     ```
 
 5. Execute o servidor:
