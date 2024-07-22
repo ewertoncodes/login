@@ -62,8 +62,8 @@ end
 
 gem "devise", "~> 4.9"
 gem "devise-i18n"
-gem 'bootstrap', '~> 5.3.3'
-gem 'jquery-rails'
+gem "bootstrap", "~> 5.3.3"
+gem "jquery-rails"
 
 gem "cssbundling-rails", "~> 1.4"
 
