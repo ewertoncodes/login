@@ -1,6 +1,6 @@
 # simple login system
 
-Este é um projeto Ruby on Rails com Bootstrap integrado.
+Este é um projeto simples de autenticação.
 
 ## Requisitos
 
@@ -16,7 +16,7 @@ Este é um projeto Ruby on Rails com Bootstrap integrado.
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/login.git
+    git clone https://github.com/ewertoncodes/login.git
     cd login
     ```
 
