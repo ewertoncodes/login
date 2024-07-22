@@ -1,4 +1,4 @@
-# Meu Projeto Rails
+# simple login system
 
 Este é um projeto Ruby on Rails com Bootstrap integrado.
 
