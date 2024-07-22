@@ -16,8 +16,8 @@ Este é um projeto Ruby on Rails com Bootstrap integrado.
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/seu-usuario/login.git
+    cd login
     ```
 
 2. Instale as dependências do Ruby:
