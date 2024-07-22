@@ -1,0 +1,29 @@
+# config/locales/pt-BR.yml
+pt-BR:
+  activerecord:
+    models:
+      user: Usuário
+    attributes:
+      user:
+        email: "E-mail"
+        password: "Senha"
+        password_confirmation: "Confirmação de Senha"
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              blank: "não pode ficar em branco"
+              taken: "já está em uso"
+            password:
+              blank: "não pode ficar em branco"
+              too_short: "é muito curta (mínimo: %{count} caracteres)"
+            password_confirmation:
+              blank: "não pode ficar em branco"
+              confirmation: "não confere com a senha"  
+  errors:
+    messages:
+      blank: "não pode ficar em branco"
+      invalid: "não é válido"
+      taken: "já está em uso"
+      
